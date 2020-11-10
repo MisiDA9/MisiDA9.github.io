@@ -1,0 +1,54 @@
+header {
+    text-align: right;  
+    text-transform: uppercase;  
+    text-decoration: underline;
+    background-color: #333333;
+    font-size: 25px;
+    padding: 10px;
+    margin: auto;
+    border: 100px;
+}    
+
+
+body {
+    background-image: url("../Képek/topography.png");
+    padding: 200px;
+    padding-top: 20px;
+    margin: 20 px;
+    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Roboto';
+    text-align: left;
+    line-height: normal;
+    font-size: 20px;
+}
+
+
+a {
+    color: #ff0099;    
+}
+
+
+h3 {
+    text-align: center;
+    margin-bottom: 0px;
+    color: #ff0099
+}
+
+
+p {
+    margin-top: 5px;
+    }
+
+
+.fogalmak {
+    text-align: center;
+    }   
+
+    
+.wikilink {
+    text-align: center;
+}
+
+/*.miertnemmukodik {
+    text-align: center;
+}*/
